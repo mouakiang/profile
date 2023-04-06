@@ -51,3 +51,15 @@ ol.center-list {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 1em;
 }
+
+.linkedin:hover {
+    color: blue;
+}
+
+.github:hover {
+    color: red;
+}
+
+.email:hover {
+    color: dimgray;
+}
